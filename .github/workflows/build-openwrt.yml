@@ -164,6 +164,7 @@ on:
           - zcube1-max
           - zk-r39a
           - zysj
+          - sunxi
       openwrt_kernel:
         description: "Select kernel version"
         required: false
